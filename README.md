@@ -33,9 +33,10 @@ Community Name | Community description | Community Platform (Discord/Slack/Teleg
 
 -- /Link Item Template -->
 
-| Community Name                | Community Description                    | Platform | Invite Link          |
-| ----------------------------- | ---------------------------------------- | -------- | -------------------- |
-| Coding Community - Matt Upham | Coding, Tech, Productivity, and Careers! | Discord  | discord.gg/mattupham |
+| Community Name                | Community Description                    | Platform | Invite Link                                  |
+| ----------------------------- | ---------------------------------------- | -------- | -------------------------------------------- |
+| Coding Community - Matt Upham | Coding, Tech, Productivity, and Careers! | Discord  | [Invite Link](discord.gg/mattupham)          |
+| Creators of Techtok           | Support, learning resources              | Discord  | [Invite Link](https://discord.gg/wYsNTgywF2) |
 
 <!-- Don't forget to add the info alphabetically by first letter of community name -->
 
