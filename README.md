@@ -6,7 +6,7 @@
 
 There are tons of great tech-related communities popping up all over TikTok. They're great for connecting with tech-related content creators and like-minded people. This list aims to aggregate as many of those communities in one master list so you can find communities that are just right for you! 
 
-**Want to your community to the list? Here are the steps:**
+**Want to add your community to the list? Here are the steps:**
 
 - [Fork this repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
 - Add the community info to the master list
