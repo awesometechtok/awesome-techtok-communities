@@ -4,7 +4,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1920px-TikTok_logo.svg.png" align="right" width="240">](https://www.tiktok.com/)
 
-There are tons of great tech-related communities popping up all over TikTok. They're great for connecting with tech-related content creators and like-minded people. This list aims to aggregate as many of those communities in one master list so you can find communities that are just right for you! 
+There are tons of great tech-related communities popping up all over TikTok. They're great for connecting with tech-related content creators and like-minded people. This list aims to aggregate as many of those communities in one master list so you can find communities that are just right for you!
 
 **Want to add your community to the list? Here are the steps:**
 
@@ -33,9 +33,10 @@ Community Name | Community description | Community Platform (Discord/Slack/Teleg
 
 -- /Link Item Template -->
 
-| Community Name | Community Description | Platform | Invite Link |
-| -------------- | --------------------- | -------- | ----------- |
-| Creators of Techtok | Support, learning resources | Discord | [Invite Link](https://discord.gg/wYsNTgywF2) |
+| Community Name                | Community Description                    | Platform | Invite Link                                  |
+| ----------------------------- | ---------------------------------------- | -------- | -------------------------------------------- |
+| Coding Community - Matt Upham | Coding, Tech, Productivity, and Careers! | Discord  | discord.gg/mattupham                         |
+| Creators of Techtok           | Support, learning resources              | Discord  | [Invite Link](https://discord.gg/wYsNTgywF2) |
 
 <!-- Don't forget to add the info alphabetically by first letter of community name -->
 
